@@ -1,6 +1,6 @@
 function test(t) {
     if (t === undefined){
-        return "Undfined value!";
+        return "Undefined value!";
     }
     return t;
 }

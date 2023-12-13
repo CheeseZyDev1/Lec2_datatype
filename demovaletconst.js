@@ -8,9 +8,9 @@ if (true){
     let world = "Hello World";
     console.log(world);
 }
-//console.log(world);
+//console.log(world);//
 
 const fixval = "Fix Value";
 console.log(fixval);
 
-//fixvar = "test assigne value to const"
+//fixvar = "test assigne value to const"//
