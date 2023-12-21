@@ -1,4 +1,4 @@
-/*unction soEqua(equation) {
+/*function soEqua(equation) {
    
     return eval(equation);
   }
@@ -7,6 +7,9 @@
   console.log(soEqua("7*4-2"));  
   console.log(soEqua("1+1+1+1+1"));  
   */
+
+
+
   function solveEquation(equation) {
     // Split the equation into an array of tokens
     const tokens = equation.split(/\s+/);
